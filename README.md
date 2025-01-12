@@ -33,7 +33,7 @@ I'm a passionate software developer with a love for creating and building things
 ## Tech Stack
 
 - 🚀 Programming Languages: Java | C++ | Python | HTML | CSS | JavaScript
-- 🛠️ Frameworks and Technologies: Spring Boot | Django | Wordpress | Git | SQL | Linux | jQuery | PostgreSQL | Thymeleaf | Bootstrap | OOP | Rest APIs | Shell Scripting | Problem Solving | CI/CD | Unit Testing | Docker | Microservices | Distributed Systems | Frontend | Backend | Full-Stack
+- 🛠️ Frameworks and Technologies: Spring Boot | Django | VueJS | Git | jQuery | PostgreSQL | DynamoDB | Amazon SQS | Amazon Cognito | Bash Scripting | Docker | Microservices | Distributed Systems 
 
 ## Connect with Me
 
@@ -46,10 +46,8 @@ I'm a passionate software developer with a love for creating and building things
 
 ![abhishake's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishake63&theme=github_dark&show_icons=true&hide_border=true&layout=compact)
 
-![abhishake's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishake63&theme=github_dark&hide_border=true)
-
 ## Get in Touch
 
-📧 Email: ovishake81@gmail.com
+📧 Email: abhishakegupta.dev@gmail.com
 
 Feel free to reach out for collaborations, projects, or just a friendly chat. Let's connect and build amazing things together!
