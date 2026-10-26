@@ -33,12 +33,7 @@ I'm a passionate software developer with a love for creating and building things
 ## Tech Stack
 
 - 🚀 Programming Languages: Java | C++ | Python | HTML | CSS | JavaScript
-- 🛠️ Frameworks and Technologies: Spring Boot | Django | VueJS | Git | jQuery | PostgreSQL | DynamoDB | Amazon SQS | Amazon Cognito | Bash Scripting | Docker | Microservices | Distributed Systems 
-
-## Connect with Me
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishakegupta/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/abhishakesengupta63)
+- 🛠️ Frameworks and Technologies: Spring Boot | Django | VueJS | Git | jQuery | PostgreSQL | DynamoDB | Amazon SQS | Amazon Cognito | Bash Scripting | Docker | Microservices | Distributed Systems
 
 ## GitHub Stats
 
